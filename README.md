@@ -1,5 +1,7 @@
 #  Shorty - URL Shortener & Click Analytics API
-
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ##  Motivation
 I built this project to deepen my understanding of HTTP request mechanics, REST API architecture, and database relationships. URL shorteners are a classic system design challenge, and I wanted to build a production-ready version from scratch that doesn't just minify links, but also provides built-in, real-time traffic analytics.
 
